@@ -20,7 +20,7 @@ You need to use **Store** command
 
 ![](https://raw.github.com/Aenterhy/Glassplay/master/screens/voice_command.png)
 
-Then you can app name
+Then you can specify app name
 
 ![](https://raw.github.com/Aenterhy/Glassplay/master/screens/search.png)
 
