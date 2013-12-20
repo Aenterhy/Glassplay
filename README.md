@@ -16,4 +16,28 @@ How does it look
 ----------------
 You need to use **Store** command
 
+![](https://raw.github.com/Aenterhy/Glassplay/master/screens/voice_command.png)
+
+Then you can app name
+
+![](https://raw.github.com/Aenterhy/Glassplay/master/screens/search.png)
+
+Then you can browse through results
+
 ![](https://raw.github.com/Aenterhy/Glassplay/master/screens/result_1.png)
+
+![](https://raw.github.com/Aenterhy/Glassplay/master/screens/result_2.png)
+
+![](https://raw.github.com/Aenterhy/Glassplay/master/screens/result_3.png)
+
+Future plans
+-----
+- review
+- install to phone and glass
+
+How to build the code
+---------------------
+Import it into Android Studio via Gradle.
+
+
+
