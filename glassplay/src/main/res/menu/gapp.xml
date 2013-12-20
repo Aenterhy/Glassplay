@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_install"
+        android:icon="@drawable/ic_menu_install"
+        android:title="@string/install" />
+    <item
+        android:id="@+id/menu_reviews"
+        android:icon="@drawable/ic_menu_reviews"
+        android:title="@string/reviews" />
+</menu>

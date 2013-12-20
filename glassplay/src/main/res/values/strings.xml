@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glassplay</string>
+    <string name="trigger_gplay">Store</string>
+    <string name="trigger_gplay_prompt">App name, functionality, …</string>
+    <string name="loading">Loading …</string>
+    <string name="install">Install</string>
+    <string name="error_please_try_again">Error - please try again.</string>
+    <string name="reviews">Reviews</string>
+</resources>
