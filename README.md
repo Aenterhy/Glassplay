@@ -2,6 +2,8 @@ Glass Play
 =========
 Unofficial Google Play browser
 
+inspired by [glasquare](https://github.com/destil/glasquare)
+
 Features
 --------
 - Voice command: **Store ...**
@@ -32,7 +34,7 @@ Then you can browse through results
 
 Future plans
 -----
-- review
+- reviews
 - install to phone and glass
 
 How to build the code
